@@ -1,0 +1,7 @@
+#NoteContainer{
+    width: 100%;
+    min-height: 50px;
+    border-radius: 5px;
+    border: 1px solid lightgrey;
+    margin-top: 10px;
+}
